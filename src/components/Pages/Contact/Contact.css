@@ -1,0 +1,22 @@
+.container{
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+  }
+
+.Contact .flex-container{
+      display: flex;
+  }
+
+.Contact .flex-container > div {
+    width: 50%;
+}
+
+@media(max-width: 960px){
+    .Contact .flex-container{
+        display: initial;
+    }
+    .Contact .flex-container > div {
+        width: 100%;
+    }
+}

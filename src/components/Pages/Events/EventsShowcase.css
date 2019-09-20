@@ -1,0 +1,26 @@
+
+.EventPic{
+    position: relative;
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+    
+}
+
+.EventPic .responsive {
+    width: 100%;
+    height: auto;
+  }
+
+.EventPic img{
+    width: 100%;
+}
+
+.EventPic .contact-stick{
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    background-color: black;
+    padding-left: 35%;
+    font-size: 50px;
+}

@@ -1,0 +1,28 @@
+.Events .flex-container{
+    display: flex;
+}
+
+.Events .flex-container .EventShowcase {
+    width: 70%;
+  }
+
+.Events .flex-container .EventNavbar {
+  width: 30%;
+}
+
+.Events .EventNavbar{
+    background-color: yellow;
+}
+
+@media(max-width: 960px){
+    .Events .flex-container{
+      display: initial;
+  }
+  .Events .flex-container .EventShowcase {
+    width: 100%;
+  }
+
+  .Events .flex-container .EventNavbar {
+    width: 100%;
+  }
+}

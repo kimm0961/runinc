@@ -1,0 +1,48 @@
+/* Map */
+
+.ContactInfo .Map{
+    position: relative;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    
+}
+
+.ContactInfo .Map .responsive {
+    width: 100%;
+    height: auto;
+  }
+
+.ContactInfo .Map img{
+    width: 100%;
+}
+
+.ContactInfo .contact-stick{
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    background-color: yellow;
+    padding-left: 35%;
+}
+
+/* Contact-info */
+
+.ContactInfo .contact-info{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.ContactInfo .contact-info p{
+    margin: 0px;
+    font-weight: lighter;
+}
+
+.ContactInfo .contact-info h3{
+    text-transform: uppercase;
+    font-weight: 450;
+    margin: 0px;
+}
+

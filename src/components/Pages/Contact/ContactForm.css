@@ -1,0 +1,36 @@
+
+.ContactForm aside{
+    margin: 10% auto;
+    display: table;
+
+}
+
+
+.ContactForm p{
+    text-transform: uppercase;
+    font-weight: 450;
+    font-size: 25px;
+    margin: 0px;
+}
+
+.ContactForm form{
+    text-transform: uppercase;
+}
+
+.ContactForm form .label{
+    margin-top: 10px;
+}
+
+.ContactForm form input, form textarea{
+    background-color: yellow;
+    border: black solid 2px;
+}
+
+.ContactForm form button{
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    border: none;
+    padding: 5px;
+    margin-top: 10px;
+}

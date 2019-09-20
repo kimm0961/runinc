@@ -1,0 +1,25 @@
+.EventsNav ul{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+
+.EventsNav a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+.EventsNav {
+    background: yellow;
+}
+
+.EventsNav h2{
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.EventsNav{
+    margin: 10% auto;
+    display: table;
+}
